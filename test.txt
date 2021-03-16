@@ -1,0 +1,3 @@
+This is a test file for adding files into the staging area of a Github repository via the command line.
+
+A few changes have been made.
